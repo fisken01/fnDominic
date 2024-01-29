@@ -8,14 +8,20 @@
 
 </div>
 
+> [!CAUTION]
+> This script requires you to spawn your OWN ped model!
+
 
 ## :star2: About the Project
 
 ### :dart: Features
-- Low MS
-- Easy to Edit
-- Small drug Script
-- Fun for Players!
+- Low Resmon
+- Open Source
+- Using ox_lib.
+- Optimized.
+
+### Requirements
+- [ox_lib](https://github.com/overextended/ox_lib)
 
 
 ### :art: Color Reference
